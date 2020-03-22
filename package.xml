@@ -27,7 +27,7 @@
         <packagedescription language="vi"><![CDATA[Phong trào Phòng chống Đại dịch COVID-19]]></packagedescription>
         <packagedescription language="zh-cn"><![CDATA[一个控制新冠病毒瘟疫COVID-19的草根运动]]></packagedescription>
         <packagedescription language="zh-tw"><![CDATA[一場阻止新冠病毒大流行的運動]]></packagedescription>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
         <date>2020-03-22</date>
     </packageinformation>
 
@@ -59,7 +59,7 @@
         <instruction type="language" />
     </instructions>
 
-    <instructions type="update" fromversion="1.0.*">
+    <instructions type="update" fromversion="1.1.*">
         <!-- files -->
         <instruction type="file" />
 

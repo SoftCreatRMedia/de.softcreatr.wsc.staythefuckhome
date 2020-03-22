@@ -3,7 +3,7 @@
  * Copyright by SoftCreatR Media.
  * This file is part of de.softcreatr.wsc.staythefuckhome.
  *
- * License: https://support.softcreatr.de/lizenzbedingungen/#kommerzielle-produkte
+ * License: https://support.softcreatr.de/lizenzbedingungen/#kostenfreie-produkte
  *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

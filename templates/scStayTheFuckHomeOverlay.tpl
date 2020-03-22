@@ -28,10 +28,7 @@
     });
     
     function setStfhOverlayCookie() {
-        var date = new Date();
-        date.setTime(date.getTime() + (60 * 60 * 24 * 1000));
-        
-        document.cookie = "{COOKIE_PREFIX}hideStfhOverlay=1; expires=" + date.toUTCString() + "; path=/";
+        document.cookie = "{$cookieString}";
     }
 </script>
 <!-- /scStayTheFuckHomeOverlay.tpl -->

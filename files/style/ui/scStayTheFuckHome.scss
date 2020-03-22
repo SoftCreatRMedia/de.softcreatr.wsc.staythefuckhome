@@ -1,0 +1,80 @@
+$slate-gray: rgba(112, 128, 144, 1);
+$blue-gray: rgba(58, 66, 73, 1);
+
+#scStayTheFuckHomeContent {
+  a.externalURL {
+    background-image: none !important;
+    padding-left: 0 !important;
+  }
+
+  .messageShareButtons ul {
+    list-style: none;
+    margin-bottom: 18px;
+    margin-left: 0;
+  }
+
+  .disclaimer {
+    color: $slate-gray;
+    font-size: 12px;
+  }
+}
+
+#scStayTheFuckHomeOverlay {
+  p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: block;
+    line-height: 130%;
+  }
+}
+
+#scStayTheFuckHomeOverlayBox {
+  background-color: $wcfContentBackground !important;
+  border: 5px solid $blue-gray;
+  color: $wcfContentText;
+  margin: 15px;
+  max-width: 700px;
+  left: 0;
+  padding: 15px;
+  position: relative;
+  top: 0;
+  
+  a:not(.button) {
+    color: $wcfContentLink;
+    cursor: pointer;
+    text-decoration: none;
+
+    &:hover {
+      color: $wcfContentLinkActive;
+      text-decoration: none;
+    }
+  }
+}
+
+#scStayTheFuckHomeOverlayCloseLink {
+  display: block;
+  padding: 3px;
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  .icon {
+      color: $blue-gray !important;
+  }
+}
+
+#scStayTheFuckHomeOverlayIcon {
+  float: left;
+  height: 192px;
+  margin: 0 10px;
+}
+
+#scStayTheFuckHomeOverlayIcon img {
+  max-height: 100%;
+}
+
+@include screen-md-down {
+  #scStayTheFuckHomeOverlayIcon {
+    height: 96px;
+  }
+}
