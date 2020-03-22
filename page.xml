@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/page.xsd">
+    <import>
+        <page identifier="de.softcreatr.wsc.StayTheFuckHome">
+            <pageType>system</pageType>
+            <controller>wcf\page\ScStayTheFuckHomePage</controller>
+
+            <name language="ar">StayTheFuckHome#</name>
+            <name language="cs">#StayTheFuckHome</name>
+            <name language="de">#StayTheFuckHome</name>
+            <name language="el">#StayTheFuckHome</name>
+            <name language="en">#StayTheFuckHome</name>
+            <name language="es">#StayTheFuckHome</name>
+            <name language="fa">#StayTheFuckHome</name>
+            <name language="fr">#StayTheFuckHome</name>
+            <name language="he">#StayTheFuckHome</name>
+            <name language="hu">#StayTheFuckHome</name>
+            <name language="id">#StayTheFuckHome</name>
+            <name language="it">#StayTheFuckHome</name>
+            <name language="ja">#StayTheFuckHome</name>
+            <name language="nl">#StayTheFuckHome</name>
+            <name language="no">#StayTheFuckHome</name>
+            <name language="pl">#StayTheFuckHome</name>
+            <name language="pt">#StayTheFuckHome</name>
+            <name language="ru">#StayTheFuckHome</name>
+            <name language="tl">#StayTheFuckHome</name>
+            <name language="tr">#StayTheFuckHome</name>
+            <name language="vi">#StayTheFuckHome</name>
+            <name language="zh-cn">#StayTheFuckHome</name>
+            <name language="zh-tw">#StayTheFuckHome</name>
+
+            <allowSpidersToIndex>1</allowSpidersToIndex>
+
+            <content language="ar">
+                <title>StayTheFuckHome#</title>
+            </content>
+
+            <content language="cs">
+                <title>#ZůstaňKurvaDoma</title>
+            </content>
+
+            <content language="de">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="el">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="en">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="es">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="fa">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="fr">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="he">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="hu">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="id">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="it">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="ja">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="nl">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="no">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="pl">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="pt">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="ru">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="tl">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="tr">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="vi">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="zh-cn">
+                <title>#StayTheFuckHome</title>
+            </content>
+
+            <content language="zh-tw">
+                <title>#StayTheFuckHome</title>
+            </content>
+        </page>
+    </import>
+</data>

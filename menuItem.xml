@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/vortex/menuItem.xsd">
+	<import>
+		<item identifier="de.softcreatr.wsc.StayTheFuckHome">
+			<menu>com.woltlab.wcf.MainMenu</menu>
+            <title language="ar">StayTheFuckHome#</title>
+            <title language="cs">#ZůstaňKurvaDoma</title>
+            <title language="de">#StayTheFuckHome</title>
+            <title language="el">#StayTheFuckHome</title>
+            <title language="en">#StayTheFuckHome</title>
+            <title language="es">#StayTheFuckHome</title>
+            <title language="fa">#StayTheFuckHome</title>
+            <title language="fr">#StayTheFuckHome</title>
+            <title language="he">#StayTheFuckHome</title>
+            <title language="hu">#StayTheFuckHome</title>
+            <title language="id">#StayTheFuckHome</title>
+            <title language="it">#StayTheFuckHome</title>
+            <title language="ja">#StayTheFuckHome</title>
+            <title language="nl">#StayTheFuckHome</title>
+            <title language="no">#StayTheFuckHome</title>
+            <title language="pl">#StayTheFuckHome</title>
+            <title language="pt">#StayTheFuckHome</title>
+            <title language="ru">#StayTheFuckHome</title>
+            <title language="tl">#StayTheFuckHome</title>
+            <title language="tr">#StayTheFuckHome</title>
+            <title language="vi">#StayTheFuckHome</title>
+            <title language="zh-cn">#StayTheFuckHome</title>
+            <title language="zh-tw">#StayTheFuckHome</title>
+			<page>de.softcreatr.wsc.StayTheFuckHome</page>
+		</item>
+	</import>
+</data>

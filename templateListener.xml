@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/2019/templateListener.xsd">
+    <import>
+        <templatelistener name="overlayCss">
+            <environment>user</environment>
+            <templatename>headInclude</templatename>
+            <eventname>stylesheets</eventname>
+            <templatecode><![CDATA[{if $templateName !== 'scStayTheFuckHome' && $showStfhOverlay|isset && $showStfhOverlay === true}<style>{literal}body{overflow:hidden!important}#scStayTheFuckHomeOverlay{position:fixed;top:0;left:0;width:100vw;height:100vh;margin:0;background:rgba(0,0,0,.9);z-index:2147483647;display:grid;place-items:center center;overflow-y:auto;color:#000!important}#scStayTheFuckHomeOverlay p{margin-top:1em;margin-bottom:1em;display:block;line-height:130%}#scStayTheFuckHomeOverlayBox{background-color:#fff!important;max-width:700px;padding:15px;margin:15px;position:relative;left:0;top:0;border:5px solid #3a4249}#scStayTheFuckHomeOverlayCloseLink{display:block;position:absolute;top:0;right:0;padding:3px}#scStayTheFuckHomeOverlayIcon{height:196px;float:left;margin:0 10px}#scStayTheFuckHomeOverlayIcon img{max-height:100%}{/literal}</style>{/if}]]></templatecode>
+        </templatelistener>
+
+        <templatelistener name="overlayTpl">
+            <environment>user</environment>
+            <templatename>header</templatename>
+            <eventname>beforePageHeader</eventname>
+            <templatecode><![CDATA[{if $templateName !== 'scStayTheFuckHome' && $showStfhOverlay|isset && $showStfhOverlay === true}{include file='scStayTheFuckHomeOverlay'}{/if}]]></templatecode>
+        </templatelistener>
+    </import>
+</data>

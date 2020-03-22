@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/2019/package.xsd"
+         name="de.softcreatr.wsc.staythefuckhome">
+    <packageinformation>
+        <packagename><![CDATA[#StayTheFuckHome]]></packagename>
+        <packagedescription><![CDATA[A Movement to Stop the COVID-19 Pandemic]]></packagedescription>
+        <packagedescription language="ar"><![CDATA[داء للحد من جائحة كوفيد-١٩]]></packagedescription>
+        <packagedescription language="cs"><![CDATA[Hnutí za zastavení pandemie COVID-19]]></packagedescription>
+        <packagedescription language="de"><![CDATA[Eine Bewegung, um die COVID-19 Pandemie aufzuhalten]]></packagedescription>
+        <packagedescription language="el"><![CDATA[Ένα κίνημα για να σταματήσει η πανδημία του COVID-19]]></packagedescription>
+        <packagedescription language="es"><![CDATA[Un movimiento para detener la pandemia del COVID-19]]></packagedescription>
+        <packagedescription language="fa"><![CDATA[جنبش متوقف کردن بیماری همه گیر (پاندمی) COVID-19]]></packagedescription>
+        <packagedescription language="fr"><![CDATA[Un mouvement pour contrer la pandémie COVID-19]]></packagedescription>
+        <packagedescription language="he"><![CDATA[התנועה לעצירת מגיפת הקורונה]]></packagedescription>
+        <packagedescription language="hu"><![CDATA[Mozgalom a COVID-19 járvány megállítására]]></packagedescription>
+        <packagedescription language="id"><![CDATA[Sebuah gerakan untuk menanggulangi Pandemi COVID-19]]></packagedescription>
+        <packagedescription language="it"><![CDATA[Un movimento per fermare la pandemia di COVID-19]]></packagedescription>
+        <packagedescription language="ja"><![CDATA[新型コロナウイルス （COVID-19）の撲滅運動について]]></packagedescription>
+        <packagedescription language="nl"><![CDATA[Een beweging om de COVID-19 pandemie te stoppen]]></packagedescription>
+        <packagedescription language="no"><![CDATA[En folkebevegelse for å stoppe COVID-19-pandemien]]></packagedescription>
+        <packagedescription language="pl"><![CDATA[Akcja mająca na celu powstrzymanie pandemii COVID-19]]></packagedescription>
+        <packagedescription language="pt"><![CDATA[Um Movimento para travar a pandemia de COVID-19]]></packagedescription>
+        <packagedescription language="ru"><![CDATA[Движение, призванное остановить Пандемию COVID-19]]></packagedescription>
+        <packagedescription language="tl"><![CDATA[Kilusan para mapatigil ang Pandemyang COVID-19]]></packagedescription>
+        <packagedescription language="tr"><![CDATA[COVID-19 Pandemisini Durdurma Hareketi]]></packagedescription>
+        <packagedescription language="vi"><![CDATA[Phong trào Phòng chống Đại dịch COVID-19]]></packagedescription>
+        <packagedescription language="zh-cn"><![CDATA[一个控制新冠病毒瘟疫COVID-19的草根运动]]></packagedescription>
+        <packagedescription language="zh-tw"><![CDATA[一場阻止新冠病毒大流行的運動]]></packagedescription>
+        <version>1.0.0</version>
+        <date>2020-03-22</date>
+    </packageinformation>
+
+    <authorinformation>
+        <author><![CDATA[SoftCreatR Media]]></author>
+        <authorurl><![CDATA[https://www.softcreatr.de]]></authorurl>
+    </authorinformation>
+
+    <requiredpackages>
+        <requiredpackage minversion="3.0.0 Alpha 1">com.woltlab.wcf</requiredpackage>
+    </requiredpackages>
+
+    <excludedpackages>
+        <excludedpackage version="6.0.0 Alpha 1">com.woltlab.wcf</excludedpackage>
+    </excludedpackages>
+
+    <instructions type="install">
+        <!-- files -->
+        <instruction type="file" />
+
+        <!-- templates -->
+        <instruction type="template" />
+
+        <!-- config -->
+        <instruction type="page" />
+        <instruction type="menuItem" />
+        <instruction type="eventListener" />
+        <instruction type="templateListener" />
+        <instruction type="language" />
+    </instructions>
+
+    <instructions type="update" fromversion="1.0.*">
+        <!-- files -->
+        <instruction type="file" />
+
+        <!-- templates -->
+        <instruction type="template" />
+
+        <!-- config -->
+        <instruction type="page" />
+        <instruction type="menuItem" />
+        <instruction type="eventListener" />
+        <instruction type="templateListener" />
+        <instruction type="language" />
+    </instructions>
+</package>

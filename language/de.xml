@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/2019/language.xsd"
+		  languagename="Deutsch"
+		  languagecode="de"
+		  countrycode="de">
+    <category name="wcf.staythefuckhome.overlay">
+        <item name="wcf.staythefuckhome.overlay.text"><![CDATA[Unsere Regierungen setzen nur langsam Maßnahmen zur Kontrolle der Ausbreitung von <a class="externalURL" href="https://de.wikipedia.org/wiki/SARS-CoV-2"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>SARS-CoV-2</a> und zur Eindämmung der <a class="externalURL" href="https://de.wikipedia.org/wiki/Coronavirus-Epidemie_2019/2020"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>COVID-19-Pandemie</a> um. Zögerliche Reaktionen, öffentliche Beschwichtigung und das Ziel, die Wirtschaft zu stabilisieren, haben verhindert, dass Maßnahmen getroffen wurden, die Millionen von Menschen vor dieser Krankheit schützen würden.
+        
+        <br /><br />
+        Es ist an der Zeit, dass wir, als Bürgerinnen und Bürger dieser Erde, unseren Teil im Kampf gegen COVID-19 beitragen.]]></item>
+        <item name="wcf.staythefuckhome.overlay.moreInfoButton"><![CDATA[Weitere Informationen]]></item>
+    </category>
+    
+    <category name="wcf.page.staythefuckhome">
+        <item name="wcf.page.staythefuckhome.metaTitle"><![CDATA[Eine Bewegung, um die COVID-19 Pandemie aufzuhalten]]></item>
+        <item name="wcf.page.staythefuckhome.metaDescription"><![CDATA[Unsere Regierungen schaffen es nicht allein, wir müssen jetzt handeln! Leiste deinen Beitrag und bleib verdammt noch mal zu Hause!]]></item>
+        <item name="wcf.page.staythefuckhome.subTitle"><![CDATA[Eine Bewegung, um die COVID-19 Pandemie aufzuhalten]]></item>
+        <item name="wcf.page.staythefuckhome.main"><![CDATA[<p>
+            Unsere Regierungen setzen nur langsam Maßnahmen zur Kontrolle der Ausbreitung von
+            <a class="externalURL" href="https://de.wikipedia.org/wiki/SARS-CoV-2"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>SARS-CoV-2</a>
+            und zur Eindämmung der <a class="externalURL" href="https://de.wikipedia.org/wiki/Coronavirus-Epidemie_2019/2020"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>COVID-19-Pandemie</a> um.
+            Zögerliche Reaktionen, öffentliche Beschwichtigung und das Ziel, die Wirtschaft zu stabilisieren, haben verhindert, dass Maßnahmen getroffen wurden, 
+            die Millionen von Menschen vor dieser Krankheit schützen würden.
+            Es ist an der Zeit, dass wir, als Bürgerinnen und Bürger dieser Erde, unseren Teil im Kampf gegen COVID-19 beitragen.
+            
+            <br /><br />
+            Um es ganz offen zu sagen: <strong>Bleib verdammt nochmal zu Hause!</strong>
+        </p>
+        
+        <h2 class="sectionTitle">Das Selbst-Quarantäne Manifest</h2>
+        
+        <p>
+            Ohne klinisch getestete Behandlungsmethoden und wissend, dass die Entwicklung eines wirksamen Impfstoffes frühestens in einem Jahr zu erwarten ist,
+            ist der einzige Weg, die Coronavirus-Pandemie in den Griff zu bekommen, die Ausbreitung zu verlangsamen.
+            Die folgende Liste umfasst eine Reihe von Maßnahmen, sortiert von den Einfachsten, hin zu den Effektivsten im Kampf gegen die Pandemie. 
+            Sie soll Menschen, die sich dieser Bewegung anschließen wollen, als grober Leitfaden dienen, um Maßnahmen zu ergreifen, die wirklich etwas verändern können.
+        </p>
+
+        <ol>
+            <li>Sei nicht panisch, aber wachsam.</li>
+            <li>Wasche regelmäßig und gründlich deine Hände und halte dich an die Husten- und Nießettikette.</li>
+            <li>Vermeide es, dein Gesicht zu berühren - einschließlich von Mund, Nase, und Augen.</li>
+            <li>Halte eine angemessene soziale Distanz, verzichte auf Umarmungen, Küsse, Händeschütteln und High-Fives. Wenn es sein muss, nutze sicherere Alternativen.</li>
+            <li>Nimm nicht an Konzerten, Theaterstücken, Sportveranstaltungen oder anderen Massenveranstaltungen teil.</li>
+            <li>Vermeide den Besuch von Museen, Ausstellungen, Kinos, Nachtclubs und anderen öffentlichen Freizeitangeboten.</li>
+            <li>Halte dich gesellschaftlichen Zusammenkünften und Veranstaltungen wie Vereinstreffen, Gottesdiensten und privaten Feiern fern.</li>
+            <li>Reduziere deine Reisen auf ein Minimum. Unternehme Fernreisen nur dann, wenn es unbedingt notwendig ist.</li>
+            <li>Meide öffentliche Verkehrsmittel, soweit es dir möglich ist.</li>
+            <li>Arbeite von Zuhause, sofern das für dich möglich ist. Fordere deinen Arbeitgeber auf, nach Möglichkeit Heimarbeit zuzulassen.</li>
+            <li>Ersetze so viele soziale Interaktionen durch Remote-Alternativen wie Telefonanrufe oder Videochats.</li>
+            <li>Verlasse dein Zuhause nicht, wenn es nicht unbedingt notwendig ist.</li>
+        </ol>
+
+        <p>
+           Denke daran, dass es keine richtige oder falsche Anzahl von getroffenen Maßnahmen gibt. 
+           Setze die Maßnahmen um, mit denen du dich wohl fühlst und die deine Existenz nicht gefährden. 
+           <strong>Kündige natürlich nicht deinen Job!</strong> Aber denke daran, dass jede getroffene Maßnahme etwas beiträgt.
+        </p>
+        
+        <h2 class="sectionTitle">Warum handeln jetzt so wichtig ist</h2>
+
+        <p>
+            SARS-CoV-2 ist ein hochinfektiöses und potenziell tödliches Virus, das eine Atemwegserkrankung namens COVID-19 verursacht. 
+            Vielleicht ist dir das Virus auch unter einem der folgenden Namen bekannt: 2019-nCoV, neuartiges Coronavirus, Wuhan Coronavirus, China oder 
+            Wuhan Grippe, oder einfach Coronavirus. Alle diese beziehen sich auf das gleichen Virus, das diese Bewegung stoppen möchte.
+            
+            <br /><br />
+            In den letzten Wochen und Monaten wurde das Virus und die durch es hervorgerufene Krankheit immer wieder mit dem Influenzavirus und der saisonalen 
+            Grippe verglichen. Aufgrund der Überschneidung der Symptome und der scheinbar ähnlichen Schwere ist dieser Vergleich für viele Menschen 
+            naheliegend. Betrachten wir allerdings, was wir über dieses neue Virus bisher wissen, kann die Bedrohung, die es für unsere Gesellschaft darstellt,
+            nicht von der Hand gewiesen werden.
+        </p>
+
+        <ul>
+            <li>
+                <h3>Ansteckender als die Grippe</h3>
+                <p>
+                    Mit einem geschätzten R0 zwischen 1,4 &ndash; 6,49 und einer durchschnittlichen Schätzung von 3,28<sup><a class="externalURL" href="https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa021/5735319"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[1]</a></sup>,
+                     ist SARS-CoV-2 viel ansteckender und breitet sich viel schneller aus als die saisonale Grippe, deren mittlerer R0 1,28<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/25186370"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[2]</a></sup> beträgt.
+                <p>
+            </li>
+            <li>
+                <h3>Tödlicher als die Grippe</h3>
+                <p>
+                    Die sogenannte Fall-Sterblichkeitsrate (im engl. CFR abgekürzt) von SARS-CoV-2 wird auf etwa 2% geschätzt<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/32146445"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[3]</a></sup>,
+                    was bedeutet, dass schätzungsweise 2% der Menschen, bei denen COVID-19 diagnostiziert wird, daran erliegen werden. Im Vergleich dazu wird der CFR der saisonalen Influenza auf etwa 0,1%
+                    geschätzt<sup><a class="externalURL" href="https://www.cdc.gov/flu/about/burden/2018-2019.html" target="_blank">[4]</a></sup>. Damit ist SARS-CoV-2 ungefähr 20-mal tödlicher ist als die saisonale Grippe.
+                <p>
+            </li>
+            <li>
+                <h3>Möglichkeit schwerer Symptome</h3>
+                <p>
+                    Geschätzte 15 &ndash; 20% der infizierten Personen leiden an schweren Symptomen, die ärztliche Hilfe erfordern<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/32064853"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[5]</a></sup>,
+                    dazu zählen unter anderem Lungenentzündung mit Kurzatmigkeit und verminderter Sauerstoffsättigung im Blut.
+                </p>
+            </li>
+            <li>
+                <h3>Keine Behandlung, kein Impfstoff, keine Immunität</h3>
+                <p>
+                    Da SARS-CoV-2 erst seit kurzem existiert, sind noch keine zuverlässigen Behandlungen für COVID-19 bekannt und es ist mehr Forschung erforderlich, um infizierte Menschen effizient zu behandeln.
+                    Ebenso gibt es noch keinen Impfstoff gegen SARS-CoV-2<sup><a class="externalURL" href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[6]</a></sup>
+                   und die Entwicklung eines solchen Impfstoffs wird noch erhebliche Zeit in Anspruch nehmen. Ohne Impfstoffe und ohne weit verbreitete Immunität ist jeder Mensch anfällig für eine Infektion. 
+                   Während die meisten Infizierten nur unter leichten Symptomen leiden, kann dieser Mangel an Herdenimmunität bei einer erheblichen Anzahl von gefährdeten Personen zu schwerer Erkrankung führen.
+                </p>
+            </li>
+            <li>
+                <h3>Exponentielles Wachstum</h3>
+                <p>
+                    Aufgrund fehlender Immunisierung gegen dieses neue Virus ist die theoretische Obergrenze für die Zahl der Infizierten die gesamte Menschheit. Und obwohl das exponentielle Wachstum auf den ersten Blick immer
+                    langsam erscheint, kann es in relativ kurzer Zeit zu unvorstellbar hohen Zahlen führen. Da sich die Anzahl der Infizierten derzeit innerhalb weniger Tage
+                    verdoppelt<sup><a class="externalURL" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[7]</a></sup>,
+                    droht eine Überlastung des Gesundheitssystems, was zu einer noch höheren Zahl von Todesfällen führen wird, da Erkrankte nicht die Pflege erhalten, die sie benötigen.
+            </li>
+        </ul>
+        
+        <h3>
+            Indem Du Dich der Bewegung anschließt und damit das Risiko für Neuinfektionen reduzierst, schützt du dich nicht nur selbst, sondern trägst auch dazu bei, die Ausbreitung für alle anderen
+            einzudämmen, insbesondere für diejenigen, die einem höheren Risiko ausgesetzt sind.
+            
+            <br /><br />
+            <strong>Wenn unser Anliegen am Herzen liegt, teile diese Seite bitte in sozialen Medien, per E-Mail oder erzähle einfach deinen Freunden und deiner Familie davon. Aber bitte, #StayTheFuckHome.</strong>
+        </h3>]]></item>
+        <item name="wcf.page.staythefuckhome.disclaimer"><![CDATA[<strong>Hinweis:</strong> Diese Website stellt keine medizinische Beratung dar. Alle bereitgestellten Informationen dienen Interessierten als Empfehlung, die auf  gesundem Menschenverstand, Best Practices und anekdotischen Beweisen basieren, um dich und deine Liebsten zu schützen. Es gibt keine Garantien oder wissenschaftliche Beweise, dass das Einhalten dieser Maßnahmen zu einer Reduzierung der Ausbreitung oder gar zum Ende der COVID-19 Pandemie führen wird. Weiter gibt es keine Garantie dafür, dass das Einhalten dieser Richtlinien einen wirksamen Schutz vor einer Infektion mit SARS-CoV-2 oder irgendeinem anderen viralen oder bakteriellen Erreger bietet. Jegliche Informationen dieser Website wurde mit den besten Absichten und nach bestem Wissen und Gewissen zur Verfügung gestellt. Die Betreiber, Übersetzer und Unterstützer dieser Website können in keinem Fall für Schäden oder andere Haftungsansprüche in Anspruch genommen werden. Solltest du Bedenken oder Kommentare zu Informationen auf dieser Website haben, erreichst du uns gerne per E-Mail unter <a href="mailto:{@$encodedEmailAddress}">{@$encodedEmailAddress}</a>. Diese Website ist ein Gemeinschaftsprojekt von <a class="externalURL" href="https://staythefuckhome.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Staythefuckhome.com</a>, <a class="externalURL" href="https://www.softcreatr.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>SoftCreatR Media</a> & <a href="{link}{/link}">{PAGE_TITLE|language}</a>.]]></item>
+    </category>
+</language>

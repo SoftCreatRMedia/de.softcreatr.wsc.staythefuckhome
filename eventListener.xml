@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/2019/eventListener.xsd">
+    <import>
+        <eventlistener name="overlay">
+            <environment>user</environment>
+            <eventclassname>wcf\page\AbstractPage</eventclassname>
+            <eventname>show</eventname>
+            <inherit>1</inherit>
+            <listenerclassname>wcf\system\event\listener\ScStayTheFuckHomeOverlayListener</listenerclassname>
+        </eventlistener>
+    </import>
+</data>
