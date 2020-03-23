@@ -14,7 +14,7 @@
     
     <category name="wcf.page.staythefuckhome">
         <item name="wcf.page.staythefuckhome.metaTitle"><![CDATA[Eine Bewegung, um die COVID-19 Pandemie aufzuhalten]]></item>
-        <item name="wcf.page.staythefuckhome.metaDescription"><![CDATA[Unsere Regierungen schaffen es nicht allein, wir müssen jetzt handeln! Leiste deinen Beitrag und bleib verdammt noch mal zu Hause!]]></item>
+        <item name="wcf.page.staythefuckhome.metaDescription"><![CDATA[Unsere Regierungen schaffen es nicht allein, wir müssen jetzt handeln! Leiste deinen Beitrag und bleib{if !LANGUAGE_USE_INFORMAL_VARIANT}en Sie{/if} verdammt noch mal zu Hause!]]></item>
         <item name="wcf.page.staythefuckhome.subTitle"><![CDATA[Eine Bewegung, um die COVID-19 Pandemie aufzuhalten]]></item>
         <item name="wcf.page.staythefuckhome.main"><![CDATA[<p>
             Unsere Regierungen setzen nur langsam Maßnahmen zur Kontrolle der Ausbreitung von
@@ -25,7 +25,7 @@
             Es ist an der Zeit, dass wir, als Bürgerinnen und Bürger dieser Erde, unseren Teil im Kampf gegen COVID-19 beitragen.
             
             <br /><br />
-            Um es ganz offen zu sagen: <strong>Bleib verdammt nochmal zu Hause!</strong>
+            Um es ganz offen zu sagen: <strong>Bleib{if !LANGUAGE_USE_INFORMAL_VARIANT}en Sie{/if} verdammt nochmal zu Hause!</strong>
         </p>
         
         <h2 class="sectionTitle">Das Selbst-Quarantäne Manifest</h2>
@@ -37,26 +37,49 @@
             Sie soll Menschen, die sich dieser Bewegung anschließen wollen, als grober Leitfaden dienen, um Maßnahmen zu ergreifen, die wirklich etwas verändern können.
         </p>
 
-        <ol>
-            <li>Sei nicht panisch, aber wachsam.</li>
-            <li>Wasche regelmäßig und gründlich deine Hände und halte dich an die Husten- und Nießettikette.</li>
-            <li>Vermeide es, dein Gesicht zu berühren - einschließlich von Mund, Nase, und Augen.</li>
-            <li>Halte eine angemessene soziale Distanz, verzichte auf Umarmungen, Küsse, Händeschütteln und High-Fives. Wenn es sein muss, nutze sicherere Alternativen.</li>
-            <li>Nimm nicht an Konzerten, Theaterstücken, Sportveranstaltungen oder anderen Massenveranstaltungen teil.</li>
-            <li>Vermeide den Besuch von Museen, Ausstellungen, Kinos, Nachtclubs und anderen öffentlichen Freizeitangeboten.</li>
-            <li>Halte dich gesellschaftlichen Zusammenkünften und Veranstaltungen wie Vereinstreffen, Gottesdiensten und privaten Feiern fern.</li>
-            <li>Reduziere deine Reisen auf ein Minimum. Unternehme Fernreisen nur dann, wenn es unbedingt notwendig ist.</li>
-            <li>Meide öffentliche Verkehrsmittel, soweit es dir möglich ist.</li>
-            <li>Arbeite von Zuhause, sofern das für dich möglich ist. Fordere deinen Arbeitgeber auf, nach Möglichkeit Heimarbeit zuzulassen.</li>
-            <li>Ersetze so viele soziale Interaktionen durch Remote-Alternativen wie Telefonanrufe oder Videochats.</li>
-            <li>Verlasse dein Zuhause nicht, wenn es nicht unbedingt notwendig ist.</li>
-        </ol>
+        {if LANGUAGE_USE_INFORMAL_VARIANT}
+            <ol>
+                <li>Sei nicht panisch, aber wachsam.</li>
+                <li>Wasche regelmäßig und gründlich deine Hände und halte dich an die Husten- und Nießettikette.</li>
+                <li>Vermeide es, dein Gesicht zu berühren - einschließlich von Mund, Nase, und Augen.</li>
+                <li>Halte eine angemessene soziale Distanz, verzichte auf Umarmungen, Küsse, Händeschütteln und High-Fives. Wenn es sein muss, nutze sicherere Alternativen.</li>
+                <li>Nimm nicht an Konzerten, Theaterstücken, Sportveranstaltungen oder anderen Massenveranstaltungen teil.</li>
+                <li>Vermeide den Besuch von Museen, Ausstellungen, Kinos, Nachtclubs und anderen öffentlichen Freizeitangeboten.</li>
+                <li>Halte dich gesellschaftlichen Zusammenkünften und Veranstaltungen wie Vereinstreffen, Gottesdiensten und privaten Feiern fern.</li>
+                <li>Reduziere deine Reisen auf ein Minimum. Unternehme Fernreisen nur dann, wenn es unbedingt notwendig ist.</li>
+                <li>Meide öffentliche Verkehrsmittel, soweit es dir möglich ist.</li>
+                <li>Arbeite von Zuhause, sofern das für dich möglich ist. Fordere deinen Arbeitgeber auf, nach Möglichkeit Heimarbeit zuzulassen.</li>
+                <li>Ersetze so viele soziale Interaktionen durch Remote-Alternativen wie Telefonanrufe oder Videochats.</li>
+                <li>Verlasse dein Zuhause nicht, wenn es nicht unbedingt notwendig ist.</li>
+            </ol>
 
-        <p>
-           Denke daran, dass es keine richtige oder falsche Anzahl von getroffenen Maßnahmen gibt. 
-           Setze die Maßnahmen um, mit denen du dich wohl fühlst und die deine Existenz nicht gefährden. 
-           <strong>Kündige natürlich nicht deinen Job!</strong> Aber denke daran, dass jede getroffene Maßnahme etwas beiträgt.
-        </p>
+            <p>
+               Denke daran, dass es keine richtige oder falsche Anzahl von getroffenen Maßnahmen gibt. 
+               Setze die Maßnahmen um, mit denen du dich wohl fühlst und die deine Existenz nicht gefährden. 
+               <strong>Kündige natürlich nicht deinen Job!</strong> Aber denke daran, dass jede getroffene Maßnahme etwas beiträgt.
+            </p>
+        {else}
+            <ol>
+                <li>Seien Sie nicht panisch, aber wachsam.</li>
+                <li>Waschen Sie regelmäßig und gründlich Ihre Hände und halten Sie sich an die Husten- und Nießettikette.</li>
+                <li>Vermeiden Sie es, Ihr Gesicht zu berühren - einschließlich von Mund, Nase, und Augen.</li>
+                <li>Halten Sie eine angemessene soziale Distanz, verzichten Sie auf Umarmungen, Küsse, Händeschütteln und High-Fives. Wenn es sein muss, nutzen Sie sicherere Alternativen.</li>
+                <li>Nehmen Sie nicht an Konzerten, Theaterstücken, Sportveranstaltungen oder anderen Massenveranstaltungen teil.</li>
+                <li>Vermeiden Sie den Besuch von Museen, Ausstellungen, Kinos, Nachtclubs und anderen öffentlichen Freizeitangeboten.</li>
+                <li>Halten Sie sich gesellschaftlichen Zusammenkünften und Veranstaltungen wie Vereinstreffen, Gottesdiensten und privaten Feiern fern.</li>
+                <li>Reduzieren Sie Ihre Reisen auf ein Minimum. Unternehmen Sie Fernreisen nur dann, wenn es unbedingt notwendig ist.</li>
+                <li>Meiden Sie öffentliche Verkehrsmittel, soweit es Ihnen möglich ist.</li>
+                <li>Arbeiten Sie von Zuhause, sofern das für Sie möglich ist. Forderen Sie Ihren Arbeitgeber auf, nach Möglichkeit Heimarbeit zuzulassen.</li>
+                <li>Ersetzen Sie so viele soziale Interaktionen durch Remote-Alternativen wie Telefonanrufe oder Videochats.</li>
+                <li>Verlassen Sie Ihr Zuhause nicht, wenn es nicht unbedingt notwendig ist.</li>
+            </ol>
+
+            <p>
+               Denken Sie daran, dass es keine richtige oder falsche Anzahl von getroffenen Maßnahmen gibt. 
+               Setzen Sie die Maßnahmen um, mit denen Sie sich wohl fühlen und die Ihre Existenz nicht gefährden. 
+               <strong>Kündigen Sie natürlich nicht Ihren Job!</strong> Aber denken Sie daran, dass jede getroffene Maßnahme etwas beiträgt.
+            </p>
+        {/if}
         
         <h2 class="sectionTitle">Warum handeln jetzt so wichtig ist</h2>
 
@@ -114,13 +137,22 @@
             </li>
         </ul>
         
-        <h3>
-            Indem Du Dich der Bewegung anschließt und damit das Risiko für Neuinfektionen reduzierst, schützt du dich nicht nur selbst, sondern trägst auch dazu bei, die Ausbreitung für alle anderen
-            einzudämmen, insbesondere für diejenigen, die einem höheren Risiko ausgesetzt sind.
-            
-            <br /><br />
-            <strong>Wenn unser Anliegen am Herzen liegt, teile diese Seite bitte in sozialen Medien, per E-Mail oder erzähle einfach deinen Freunden und deiner Familie davon. Aber bitte, #StayTheFuckHome.</strong>
-        </h3>]]></item>
+        {if LANGUAGE_USE_INFORMAL_VARIANT}
+            <h3>
+                Indem Du Dich der Bewegung anschließt und damit das Risiko für Neuinfektionen reduzierst, schützt du dich nicht nur selbst, sondern trägst auch dazu bei, die Ausbreitung für alle anderen
+                einzudämmen, insbesondere für diejenigen, die einem höheren Risiko ausgesetzt sind.
+                
+                <br /><br />
+                <strong>Wenn dir unser Anliegen am Herzen liegt, teile diese Seite bitte in sozialen Medien, per E-Mail oder erzähle einfach deinen Freunden und deiner Familie davon. Aber bitte, #StayTheFuckHome.</strong>
+            </h3>
+        {else}
+            <h3>
+                Indem Sie sich der Bewegung anschließen und damit das Risiko für Neuinfektionen reduzieren, schützen Sie sich nicht nur selbst, sondern tragen auch dazu bei, die Ausbreitung für alle anderen einzudämmen, insbesondere für diejenigen, die einem höheren Risiko ausgesetzt sind.
+                
+                <br /><br />
+                <strong>Wenn Ihnen unser Anliegen am Herzen liegt, teilen Sie diese Seite bitte in sozialen Medien, per E-Mail oder erzählen Sie einfach Ihren Freunden und Ihrer Familie davon. Aber bitte, #StayTheFuckHome.</strong>
+            </h3>
+        {/if}]]></item>
         <item name="wcf.page.staythefuckhome.disclaimer"><![CDATA[<strong>Hinweis:</strong> Diese Website stellt keine medizinische Beratung dar. Alle bereitgestellten Informationen dienen Interessierten als Empfehlung, die auf  gesundem Menschenverstand, Best Practices und anekdotischen Beweisen basieren, um dich und deine Liebsten zu schützen. Es gibt keine Garantien oder wissenschaftliche Beweise, dass das Einhalten dieser Maßnahmen zu einer Reduzierung der Ausbreitung oder gar zum Ende der COVID-19 Pandemie führen wird. Weiter gibt es keine Garantie dafür, dass das Einhalten dieser Richtlinien einen wirksamen Schutz vor einer Infektion mit SARS-CoV-2 oder irgendeinem anderen viralen oder bakteriellen Erreger bietet. Jegliche Informationen dieser Website wurde mit den besten Absichten und nach bestem Wissen und Gewissen zur Verfügung gestellt. Die Betreiber, Übersetzer und Unterstützer dieser Website können in keinem Fall für Schäden oder andere Haftungsansprüche in Anspruch genommen werden. Solltest du Bedenken oder Kommentare zu Informationen auf dieser Website haben, erreichst du uns gerne per E-Mail unter <a href="mailto:{@$encodedEmailAddress}">{@$encodedEmailAddress}</a>. Diese Website ist ein Gemeinschaftsprojekt von <a class="externalURL" href="https://staythefuckhome.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Staythefuckhome.com</a>, <a class="externalURL" href="https://www.softcreatr.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>SoftCreatR Media</a> & <a href="{link}{/link}">{PAGE_TITLE|language}</a>.]]></item>
     </category>
 </language>
