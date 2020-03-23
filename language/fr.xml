@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/2019/language.xsd"
+		  languagename="Français"
+		  languagecode="fr"
+		  countrycode="fr">
+    <category name="wcf.staythefuckhome.overlay">
+        <item name="wcf.staythefuckhome.overlay.text"><![CDATA[Nos gouvernements échouent à empêcher la propagation du <a href="https://fr.wikipedia.org/wiki/SARS-CoV-2">Coronavirus (SARS-CoV-2)</a> et à contenir <a href="https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_maladie_%C3%A0_coronavirus_de_2019-2020">la pandémie COVID-19</a>. Leurs réactions molles, leurs appels au calme, et leur priorité à vouloir stabiliser l'économie avant tout empêchent de prendre les mesures nécessaires pour protéger des millions de personnes de cette maladie.
+        
+        <br /><br />
+        Il est temps pour nous, en tant que citoyens de cette planète, d'agir maintenant et de faire notre part dans le combat contre le COVID-19.]]></item>
+        <item name="wcf.staythefuckhome.overlay.moreInfoButton"><![CDATA[Plus d'informations]]></item>
+    </category>
+    
+    <category name="wcf.page.staythefuckhome">
+        <item name="wcf.page.staythefuckhome.metaTitle"><![CDATA[Un mouvement pour contrer la pandémie COVID-19]]></item>
+        <item name="wcf.page.staythefuckhome.metaDescription"><![CDATA[Nos gouvernements jouent contre nous, nous devons agir maintenant! Faites votre part et restez dans vos putains de maisons!]]></item>
+        <item name="wcf.page.staythefuckhome.subTitle"><![CDATA[Un mouvement pour contrer la pandémie COVID-19]]></item>
+        <item name="wcf.page.staythefuckhome.main"><![CDATA[<p>
+            Nos gouvernements échouent à empêcher la propagation du
+            <a class="externalURL" href="https://fr.wikipedia.org/wiki/SARS-CoV-2"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Coronavirus (SARS-CoV-2)</a>
+            et à contenir <a class="externalURL" href="https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_maladie_%C3%A0_coronavirus_de_2019-2020"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>la pandémie COVID-19</a>.
+            Leurs réactions molles, leurs appels au calme, et leur priorité à vouloir stabiliser l'économie avant tout empêchent de prendre les mesures
+            nécessaires pour protéger des millions de personnes de cette maladie. Il est temps pour nous, en tant que citoyens de cette planète, d'agir
+            maintenant et de faire notre part dans le combat contre le COVID-19.
+            <br /><br />
+            Disons le clairement: <strong>Restez dans vos putains de maisons !</strong>
+        </p>
+
+        <h2>Le Manifeste d'Auto-Quarantaine</h2>
+        <p>
+            Sans traitement efficace et un vaccin viable qui ne sera pas disponible avant au moins l'année prochaine, la seule façon efficace de contenir l'épidémie
+            de Coronavirus est de réduire les risques de propagation du virus. La liste d'actions suivantes, ordonnées de la plus simple à mettre en œuvre à la plus efficace dans le
+            combat contre l'épidémie, devrait servir comme un ensemble de lignes directrices peu contraignantes, pour les personnes qui souhaitent prendre part au mouvement et agir, pendant que nos
+            dirigeants continuent de nous négliger.
+
+        </p>
+
+        <ol>
+            <li>Ne paniquez pas, mais soyez vigilants.</li>
+            <li>Lavez vous les mains souvent et si besoin toussez / éternuez dans votre coude.</li>
+            <li>Essayez de toucher votre visage le moins possible, y compris votre bouche, votre nez et vos yeux.</li>
+            <li>Élargissez les distances sociales : pas d'embrassades et de bisous, pas de poignées de main, pas de check. Si vous devez vraiment vous voir, faites-le sans contact !</li>
+            <li>N'assistez pas aux concerts, aux évènements sportifs, à des pièces de théâtres, et autres évènements où il y a du monde.</li>
+            <li>Évitez les musées, les expositions, les cinémas, les boîtes de nuit, et autres lieux de divertissement.</li>
+            <li>Idem pour les rassemblements, comme les réunions associatives, les rassemblements religieux, et les fêtes privées.</li>
+            <li>Réduisez vos déplacements au minimum. Ne voyagez pas si ce n'est pas nécessaire.</li>
+            <li>N'utilisez pas les transports en commun sauf si vous ne pouvez pas faire autrement.</li>
+            <li>Si vous pouvez travailler de chez vous, faites-le. Exhortez votre employeur à autoriser le travail à distance si nécessaire.</li>
+            <li>Remplacez vos rendez-vous au maximum par des alternatives à distance comme le téléphone ou la visioconférence.</li>
+            <li>Ne quittez pas votre domicile sauf quand c'est absolument nécessaire.</li>
+        </ol>
+
+        <p>
+            Merci de garder en tête qu'il n'y a pas de recette miracle adaptée à tout le monde. Ne prenez que les conseils avec lesquels vous vous sentez à l'aise et qui ne mettent pas en danger votre vie quotidienne
+            : ne démissionnez pas de votre travail pour ça ! Cependant, chacune de vos actions compte.
+        </p>
+
+        <h2>Pourquoi c'est si important</h2>
+
+        <p>
+            Le SARS-CoV-2 est un virus extrêmement contagieux et potentiellement mortel qui cause une maladie respiratoire appelée COVID-19.
+            Vous le connaissez peut-être sous l'un de ses nombreux autres noms, notamment comme le 2019-nCoV, nouveau coronavirus, coronavirus de Wuhan, la grippe chinoise ou juste
+            simplement le coronavirus. Tous ces noms désignent le même virus que ce mouvement tente d'arrêter.
+
+        </p>
+
+        <p>
+            Durant ces dernières semaines et mois, le virus et la maladie correspondante ont été comparés
+            à de multiples reprises au virus de la grippe et à la grippe saisonnière. À cause de symptômes et d'une gravité apparente similaires, cette comparaison paraît naturelle pour beaucoup de gens. Or, de ce que l'on sait
+            de ce nouveau virus pour le moment, la menace qu'il pose pour notre société est bien réelle.
+
+        </p>
+
+        <ul>
+            <li>
+                <h3>Plus Contagieux que la Grippe</h3>
+                <p>
+                    Avec un R0 (nombre de personnes qu'une personne infectée infecte directement à son tour dans une population non immunisée) estimé entre 1,4 et 6,49 et une estimation moyenne de 3,28<sup><a class="externalURL" href="https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa021/5735319"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[1]</a></sup>,
+                    le SARS-CoV-2 est beaucoup plus contagieux et se répand beaucoup plus vite que la grippe saisonnière, qui a un R0 médian de 1,28<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/25186370"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[2]</a></sup>.
+                <p>
+            </li>
+            <li>
+                <h3>Plus Mortel que la Grippe</h3>
+                <p>
+                    Le taux de létalité du SARS-CoV-2 (nombre de morts parmi les cas répertoriés) est estimé être aux alentours de 2%<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/32146445"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[3]</a></sup>,
+                    ce qui signifie malheureusement que 2% des personnes diagnostiquées avec le COVID-19 y succomberont. En comparaison, le CFR de la grippe saisonnière est estimé à environ 0,1 %<sup><a class="externalURL" href="https://www.cdc.gov/flu/about/burden/2018-2019.html"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[4]</a></sup>, ce qui veut dire que le SARS-CoV-2 est
+                    environ 20 fois plus mortel que la grippe saisonnière.
+                <p>
+            </li>
+            <li>
+                <h3>Possibilité de symptômes graves</h3>
+                <p>
+                   Environ 15-20% des individus contaminés souffrent de symptômes sévères qui demandent une intervention médicale<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/32064853"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[5]</a></sup>,
+                   dont des pneumonies avec difficultés respiratoires et une faible oxygénation du sang.
+                </p>
+            </li>
+            <li>
+                <h3>Pas de Traitement. Pas de Vaccin. Pas d'Immunisation.</h3>
+                <p>
+                    Vu que le SARS-CoV-2 est très récent, il n'existe pas de traitement bien étudié du COVID-19, plus de recherche est nécessaire afin de traiter efficacement les personnes infectées. Pour les mêmes raisons, il n'y a pas encore de vaccin contre le SARS-CoV-2<sup><a class="externalURL" href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[6]</a></sup>
+                     et le développement d'un tel vaccin va prendre beaucoup de temps. Sans vaccin et sans immunisation généralisée préalable, toute personne est une cible susceptible d'être contaminée. Bien que la plupart des personnes infectées ne souffrent que de symptômes légers, cette absence d'immunisation va provoquer des maladies graves sur une grande partie des individus à risques.
+                </p>
+            </li>
+            <li>
+                <h3>Croissance Exponentielle</h3>
+                <p>
+                    L'absence d'immunisation à ce nouveau virus signifie que c'est l'ensemble de la population mondiale qui est potentiellement infectable. Et même si une croissance exponentielle
+                    semble toujours lente au début, cela peut mener à un nombre de cas incroyablement élevé en peu de temps. Avec un nombre de personnes contaminées qui double tous les quelques
+                    jours<sup><a class="externalURL" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[7]</a></sup>, nos systèmes de santé seront surchargés,
+                    ce qui va conduire à de nombreux décès, dus au manque de soins aux personnes qui en ont besoin.
+                </p>
+            </li>
+        </ul>
+
+        <h3>
+            En rejoignant ce mouvement et donc en limitant les nouveaux cas de contamination, vous n'êtes pas seulement en train de vous protéger vous-même, mais vous aidez aussi à contenir
+            la dispersion de l'épidémie pour tout le monde, surtout pour celles et ceux qui risquent le plus de mourir des conséquences de ce virus.
+            <br /><br />
+            
+            <strong>Si vous êtes sensible à cette cause, merci de partager ceci sur les médias sociaux, par email ou juste à votre famille et vos amis. Mais s'il vous plaît, juste #StayTheFuckHome.</strong>
+        </h3>]]></item>
+        <item name="wcf.page.staythefuckhome.disclaimer"><![CDATA[<strong>Disclaimer:</strong> The content of this website does not constitute medical advice. The information provided above is meant as a suggestion for concerned individuals to follow a loose set of guidelines based on best practices and anecdotal evidence to protect themselves and their loved ones. There is no guarantee or scientific evidence that following the mentioned guidelines will lead to a reduction in new infections or even stop the COVID-19 epidemic. There is also no guarantee that following these guidelines will reduce the risk of getting infected with SARS-CoV-2 or any other viral or bacterial contagion.  All information provided on this website is given with the best intent and will to provide factual information. In no event shall the website operators be held liable for any claim, damages, or other liabilities. If you have concerns or comments about the information provided on this website, please write to <a href="mailto:{@$encodedEmailAddress}">{@$encodedEmailAddress}</a>. This website is a community project by <a class="externalURL" href="https://staythefuckhome.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Staythefuckhome.com</a>, <a class="externalURL" href="https://www.softcreatr.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>SoftCreatR Media</a> & <a href="{link}{/link}">{PAGE_TITLE|language}</a>.]]></item>
+    </category>
+</language>
