@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/2019/language.xsd"
+		  languagename="Español"
+		  languagecode="es"
+		  countrycode="es">
+    <category name="wcf.staythefuckhome.overlay">
+        <item name="wcf.staythefuckhome.overlay.text"><![CDATA[Nuestros gobiernos son lentos para tomar medidas para prevenir la transmisión de <a href="https://es.wikipedia.org/wiki/SARS-CoV-2">SARS-CoV-2</a> y frenar la <a href="https://es.wikipedia.org/wiki/COVID-19">pandemia de COVID-19</a>. Reacciones lentas, políticas para aplacar al público, y su urgencia por estabilizar la economía les previenen tomar las medidas necesarias para proteger a millones de esta enfermedad.
+        
+        <br /><br />
+        Es tiempo que nosotros, como ciudadanos de esta tierra, tomemos acción ahora y hagamos nuestra parte para combatir el COVID-19.]]></item>
+        <item name="wcf.staythefuckhome.overlay.moreInfoButton"><![CDATA[Más información]]></item>
+    </category>
+    
+    <category name="wcf.page.staythefuckhome">
+        <item name="wcf.page.staythefuckhome.metaTitle"><![CDATA[Un movimiento para detener la pandemia del COVID-19]]></item>
+        <item name="wcf.page.staythefuckhome.metaDescription"><![CDATA[Nuestros gobiernos no pueden lograrlo solos, ¡tenemos que entrar an acción ahora! ¡Haz tu parte y quédate en tu puta casa!]]></item>
+        <item name="wcf.page.staythefuckhome.subTitle"><![CDATA[Un movimiento para detener la pandemia del COVID-19]]></item>
+        <item name="wcf.page.staythefuckhome.main"><![CDATA[<p>
+            Nuestros gobiernos son lentos para tomar medidas para prevenir la transmisión de
+            <a class="externalURL" href="https://es.wikipedia.org/wiki/SARS-CoV-2"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>SARS-CoV-2</a>
+            y frenar la <a class="externalURL" href="https://es.wikipedia.org/wiki/COVID-19"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>pandemia de COVID-19</a>.
+            Reacciones lentas, políticas para aplacar al público, y su urgencia por estabilizar la economía les previenen tomar las medidas
+            necesarias para proteger a millones de esta enfermedad. Es tiempo que nosotros, como ciudadanos de esta tierra, tomemos acción
+            ahora y hagamos nuestra parte para combatir el COVID-19.
+
+            <br /><br />
+            Directo al grano: <strong>Quédate En Tu Puta Casa!</strong>
+        </p>
+
+        <h2>El Manifiesto de la Auto-Cuarentena</h2>
+
+        <p>
+            Sin ningún tratamiento estudiado, y con una vacuna viable a más allá de un año, la única forma efectiva de mantener la epidemia del
+            coronavirus bajo control es darle al virus la menor oportunidad de transmitirse.
+            La siguiente lista incluye un número de acciones, ordenada desde las más fáciles de implementar a más efectivas en la pelea contra la pandemia. deben servir como una guía para la gente que desea unirse al
+            movimiento para tomar medidas que realmente puedan cambiar algo. 
+        </p>
+
+        <ol>
+            <li>No te alarmes, pero mantente alerta.</li>
+            <li>Lávate las manos con frecuencia y pon en práctica buenos usos al estornudar y toser.</li>
+            <li>Intenta tocarte la cara lo menos posible, y evita la boca, la nariz y ojos.</li>
+            <li>Ejerce el distanciamiento social, no des besos y abrazos, no saludes dando la mano ni toques las manos de otros. Si es
+            necesario, busca alternativas.</li>
+            <li>No vayas a conciertos, obras de teatro, eventos deportivos, o cualquier evento de entretenimiento masivos.</li>
+            <li>Evita visitar museos, exhibiciones, salas de cine, bares y centros nocturnos, y otros centros de entretenimiento.</li>
+            <li>No asistas a reuniones sociales y eventos, como juntas de clubs, servicios religiosos, y fiestas privadas.</li>
+            <li>Reduce tus viajes al mínimo. No viajes largas distancias a menos que sea absolutamente necesario.</li>
+            <li>No utilices transporte público a menos que sea absolutamente necesario.</li>
+            <li>Si puedes trabajar en casa, trabaja desde casa. Insiste a tu empleador que te permita trabajar de manera remota si es necesario.</li>
+            <li>Reemplaza interacciones sociales con alternativas remotas, como llamadas o video chats.</li>
+            <li>No salgas de casa a menos que sea absolutamente necesario.</li>
+        </ol>
+
+        <p>
+            Recuerda que no hay un número correcto o incorrecto de acciones que tomar. Solamente toma las que te hagan sentir cómodo y que no pongan en riesgo
+            tu profesión y sustento. No renuncies a tu trabajo! Sin embargo, toma en cuenta que cualquier acción ayuda.
+        </p>
+
+        <h2>Por qué es tan importante</h2>
+
+        <p>
+            SARS-CoV-2 es un virus altamente contagioso y potencialmente mortal que causa una enfermedad respiratoria llamada COVID-19. Puede que la conozcas por sus
+            otros nombres, incluyendo 2019-nCoV, novel coronavirus, Wuhan coronavirus, gripe China o de Wuhan, o simplemente el coronavirus. Todos estos se refieren
+            al mismo virus que este movimiento intenta detener.
+        </p>
+
+        <p>
+            En los últimos meses y semanas, el virus y la enfermedad correspondientes han sido comparados cada vez con el virus de la gripe durante la temporada de
+            gripe. Debido a los síntomas en común y la aparente severidad, esta comparación le parece natural a mucha gente, sin embargo, al ver lo que sabemos hasta
+            ahora acerca de este nuevo virus, la amenaza que representa a la sociedad no es fácil de ignorar. 
+        </p>
+
+        <ul>
+            <li>
+                <h3>Más contagioso que la gripe</h3>
+                <p>
+                    Con un R0 (el número esperado de nuevos casos generados directamente por otro caso en una población donde todos los individuos son susceptibles a la infección) estimado entre 1.4 &ndash; 6.49 y una media estimada de 3.28<sup><a class="externalURL" href="https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa021/5735319"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[1]</a></sup>,
+                    SARS-CoV-2 es mucho más contagioso y se expande mucho más rápido que la gripe, la cual tiene una media R0 de 1.28<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/25186370"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[2]</a></sup>.
+                <p>
+            </li>
+            <li>
+                <h3>Más mortal que la gripe</h3>
+                <p>
+                    La llamada tasa de mortalidad de SARS-CoV-2 se estima a 2%<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/32146445"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[3]</a></sup>,
+                    lo cual quiere decir que lamentablemente, aproximadamente 2% de las personas diagnosticadas morirán de COVID-19. En comparación, la tasa de mortalidad de la gripe se estima en
+                    0.1%<sup><a class="externalURL" href="https://www.cdc.gov/flu/about/burden/2018-2019.html"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[4]</a></sup>, esto significa que SARS-CoV-2 es 20 veces más mortal que la gripe.
+
+                <p>
+            </li>
+            <li>
+                <h3>Posibles Síntomas Severos</h3>
+                <p>
+                    Aproximadamente el 15 &ndash; 20% de la gente infectada sufre síntomas que requieren atención médica<sup><a class="externalURL" href="https://www.ncbi.nlm.nih.gov/pubmed/32064853"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[5]</a></sup>, incluyendo
+                    neumonía con problemas de respiración y baja saturación de oxígeno en la sangre.
+                </p>
+            </li>
+            <li>
+                <h3>Sin tratamiento, sin vacuna, sin inmunidad</h3>
+                <p>
+                    Ya que SARS-CoV-2 surgió recientemente, no existen tratamientos estudiados para el COVID-19 y hace falta investigar más para tratar a la gente infectada de
+                    forma efectiva. Así mismo, no hay vacuna para SARS-CoV-2 aún<sup><a class="externalURL" href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[6]</a></sup>
+                     y el desarrollo de la mísma tomaría mucho tiempo. Sin vacunas y sin contagios anteriores que pudieran causar inmunidad de forma amplia, cualquiera es susceptible de ser blanco de infección. A pesar
+                     de que la mayoría de los infectados tendrán síntomas leves, la falta de inmunidad de grupo causará enfermedad severa en un número significativo de personas de alto riesgo.  
+                </p>
+            </li>
+            <li>
+                <h3>Crecimiento exponencial</h3>
+                <p>
+                   Debido a la falta de inmunidad a este nuevo virus, el límite de posibles infecciones es la población humana en su totalidad. Y debido a que el crecimiento
+                   exponencial siempre es lento al principio, puede terminar en números insondables en muy corto tiempo. Con el número de infecciones actualmente duplicándose
+                   en cuestión de unos días<sup><a class="externalURL" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>[7]</a></sup>, nuestros sistemas médicos estarán sobrecargados, lo
+                   cual causa aún más muertes, ya que la gente no puede recibir los cuidados necesarios.
+                </p>
+            </li>
+        </ul>
+
+        <h3>
+            Al unirte al movimiento, y por lo tanto limitar el número de infecciones nuevas posibles, no solo te estás protegiendo, sino que también ayudas a contener y limitar
+            la transmisión a todos los demás, especialmente a aquellos con altos riesgos de sufrir consecuencias severas a causa de este virus.
+<br /><br />
+            
+            <strong>Si te importa esta causa, por favor compártela en redes sociales, por correo, o simplemente habla con tu familia y amigos al respecto. Pero por favor, #StayTheFuckHome</strong>
+        </h3>]]></item>
+        <item name="wcf.page.staythefuckhome.disclaimer"><![CDATA[<strong>Disclaimer:</strong> The content of this website does not constitute medical advice. The information provided above is meant as a suggestion for concerned individuals to follow a loose set of guidelines based on best practices and anecdotal evidence to protect themselves and their loved ones. There is no guarantee or scientific evidence that following the mentioned guidelines will lead to a reduction in new infections or even stop the COVID-19 epidemic. There is also no guarantee that following these guidelines will reduce the risk of getting infected with SARS-CoV-2 or any other viral or bacterial contagion.  All information provided on this website is given with the best intent and will to provide factual information. In no event shall the website operators be held liable for any claim, damages, or other liabilities. If you have concerns or comments about the information provided on this website, please write to <a href="mailto:{@$encodedEmailAddress}">{@$encodedEmailAddress}</a>. This website is a community project by <a class="externalURL" href="https://staythefuckhome.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Staythefuckhome.com</a>, <a class="externalURL" href="https://www.softcreatr.com"{if EXTERNAL_LINK_REL_NOFOLLOW || EXTERNAL_LINK_TARGET_BLANK} rel="{if EXTERNAL_LINK_REL_NOFOLLOW}nofollow{/if}{if EXTERNAL_LINK_TARGET_BLANK}{if EXTERNAL_LINK_REL_NOFOLLOW} {/if}noopener noreferrer{/if}"{/if}{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>SoftCreatR Media</a> & <a href="{link}{/link}">{PAGE_TITLE|language}</a>.]]></item>
+    </category>
+</language>
